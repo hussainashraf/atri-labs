@@ -26,3 +26,6 @@ pip install --user pipenv
   atri start
 ```
     
+## Screenshots
+[![Screenshot-2022-12-31-at-2-55-02-AM.png](https://i.postimg.cc/kXgzg779/Screenshot-2022-12-31-at-2-55-02-AM.png)](https://postimg.cc/3WznL5yb)
+
