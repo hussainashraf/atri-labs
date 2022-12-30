@@ -1,0 +1,83 @@
+.p-Home.Button8{
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d
+}
+.p-Home.TextBox29{
+display: inline-block;
+margin-top: 100px;
+margin-bottom: 0px;
+background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+font-size: 22px;
+line-height: 100%;
+font-weight: 700;
+letter-spacing: 4px;
+text-transform: uppercase;
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.p-Home.TextBox21{
+    display: inline;
+    padding-right: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+* {
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.p-Home.Button8{
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+    z-index: 1;
+    padding: 20px 30px;
+    background-color: #000;
+} 
+* {
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.p-Home.TextBox30{
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-transform: translate(7px, 7px);
+    -ms-transform: translate(7px, 7px);
+    transform: translate(7px, 7px);
+}* {
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.p-Home.Button13{
+    position: relative;
+    z-index: 1;
+    padding: 20px 30px;
+    background-color: #000;
+    transition: 0.2s;
+}
+* {
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.p-Home.Button13:hover{
+    transform: translate3d(7px, 7px, 7px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+   
+}
